@@ -83,3 +83,6 @@ output/
 input/
 
 run.sh
+
+# Personal match
+venv/
